@@ -1,1 +1,22 @@
-/* Write your CSS here! */
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 8 block;
+	background-color: rgb(167, 125, 168);
+	font-size: 80;
+}
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+img {
+	width: 70%;
+	max-width: 100%;
+}
+#mainHeading {
+	color: red;
+}
+.funParagraph {
+	color:green;
+}
