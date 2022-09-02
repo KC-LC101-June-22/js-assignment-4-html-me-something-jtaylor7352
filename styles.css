@@ -1,7 +1,7 @@
 body {
 	width: 100%;
 	max-width: 1024px;
-	margin: 8 auto;
+	margin: 8 block;
 	background-color: rgb(167, 125, 168);
 	font-size: 80;
 }
